@@ -21,6 +21,24 @@
       <excludeFolder url="file://$MODULE_DIR$/untitled/.dart_tool" />
       <excludeFolder url="file://$MODULE_DIR$/untitled/build" />
       <excludeFolder url="file://$MODULE_DIR$/untitled/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Vertical_Card_Pager-master/example_lol/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Vertical_Card_Pager-master/example_lol/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Vertical_Card_Pager-master/example_lol/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Vertical_Card_Pager-master/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Vertical_Card_Pager-master/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Vertical_Card_Pager-master/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/navigator_youtube/build" />
+      <excludeFolder url="file://$MODULE_DIR$/navigator_youtube/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/navigator_youtube/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Vertical_Card_Pager-master/example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Vertical_Card_Pager-master/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Vertical_Card_Pager-master/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Vertical_Card_Pager-master/example_macos/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Vertical_Card_Pager-master/example_macos/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Vertical_Card_Pager-master/example_macos/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Vertical_Card_Pager-master/example_fashion/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Vertical_Card_Pager-master/example_fashion/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Vertical_Card_Pager-master/example_fashion/.dart_tool" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
