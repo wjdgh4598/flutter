@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/column_row/build" />
+      <excludeFolder url="file://$MODULE_DIR$/column_row/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/column_row/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/first_flutter/build" />
+      <excludeFolder url="file://$MODULE_DIR$/first_flutter/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/first_flutter/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/toast_example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/toast_example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/toast_example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/snackbar_builder/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/snackbar_builder/build" />
+      <excludeFolder url="file://$MODULE_DIR$/snackbar_builder/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/app_icon_menu/build" />
+      <excludeFolder url="file://$MODULE_DIR$/app_icon_menu/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/app_icon_menu/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/untitled/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/untitled/build" />
+      <excludeFolder url="file://$MODULE_DIR$/untitled/.pub" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
